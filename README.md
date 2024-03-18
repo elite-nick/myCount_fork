@@ -1,5 +1,6 @@
 # myCount.org Fork
 ### DEMO: https://elite-nick.github.io/mycount_demo/
+![image](https://github.com/elite-nick/myCount_fork/assets/16212039/eb4f0ee3-235e-4f4c-9c10-fdfde3f2d64a)
 ### RU:
 ### Описание:
 Это форк ныне неработающего сайта myCount.org
